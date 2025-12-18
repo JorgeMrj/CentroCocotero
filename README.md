@@ -36,3 +36,4 @@ La aplicación se inicializa automáticamente con los siguientes usuarios para p
    - **Rol:** USER
 
 > 💡 **Nota:** Todos los usuarios se crean automáticamente al iniciar la aplicación. Las contraseñas están encriptadas con BCrypt.
+a
